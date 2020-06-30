@@ -1,7 +1,7 @@
 {
-    "name": "asvae/laravel-api-tester",
+    "name": "safiullahsarhandi/laravel-api-tester",
     "description": "Api tester for Laravel Framework",
-    "keywords": ["laravel", "api", "debug"],
+    "keywords": ["laravel", "api", "debug","fork","Safeeullah Sarhandi"],
     "license": "MIT",
     "authors": [
         {
@@ -10,10 +10,10 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=7.2.0"
     },
     "require-dev": {
-        "laravel/framework": "5.2.*",
+        "laravel/framework": "^7.2.*",
         "phpunit/phpunit": "~4.0",
         "mockery/mockery": "^0.9.5"
     },
